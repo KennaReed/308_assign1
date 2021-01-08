@@ -1,0 +1,17 @@
+html {
+    background-color: #FFDDD2;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+}
+
+.tableHeader {
+    background-color: #E29578;
+}
+
+.tableBody {
+    background-color: #E29578;
+}
